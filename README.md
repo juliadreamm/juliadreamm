@@ -6,11 +6,11 @@
 
 I'm a passionate **Architect** with experience in **landscape and interior design**. 
 
-- 🌱 Currently learning: **italian, turkish, coding**
-- 🔭 Working on: **[my postcard blog]**
-- 🌍 Languages: **[portuguese, spanish, english]**
-- 📫 How to reach me: **[@juliadreams at postcrossing]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 🌱 Currently learning: **italian, french turkish, coding**
+- 🔭 Working on: **my postcard blog**
+- 🌍 Languages: **portuguese, spanish, english**
+- 📫 How to reach me: **@juliadreams at postcrossing**
+- ⚡ Fun fact: **my cat is Didi and my dog is Juju!**
 
 ## My Skills 🧠
 
@@ -20,7 +20,7 @@ I'm a passionate **Architect** with experience in **landscape and interior desig
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### CIV 5 Cities Postcard Project ([project_1_link](https://sites.google.com/view/postaisciv5/welcome))
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
