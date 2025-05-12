@@ -6,7 +6,7 @@
 
 I'm a passionate **Architect** with experience in **landscape and interior design**. 
 
-- 🌱 Currently learning: **italian, french turkish, coding**
+- 🌱 Currently learning: **italian, french, turkish, coding**
 - 🔭 Working on: **my postcard blog**
 - 🌍 Languages: **portuguese, spanish, english**
 - 📫 How to reach me: **@juliadreams at postcrossing**
